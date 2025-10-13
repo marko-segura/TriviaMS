@@ -1,0 +1,304 @@
+{
+  "banco": [
+    {
+      "nombreDificultad": "muy fácil",
+      "preguntas": [
+        {
+          "enunciado": "¿Capital de Costa Rica?",
+          "respuestas": [
+            { "texto": "Cartago" },
+            { "texto": "Alajuela" },
+            { "texto": "San José" },
+            { "texto": "Heredia" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "San José es la capital desde 1823; antes la capital estuvo en Cartago."
+        },
+        {
+          "enunciado": "¿Cuántos océanos bañan a Costa Rica?",
+          "respuestas": [
+            { "texto": "Uno: Atlántico" },
+            { "texto": "Uno: Pacífico" },
+            { "texto": "Dos: Pacífico y Caribe" },
+            { "texto": "Tres" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "Costa Rica tiene costas en el océano Pacífico y en el mar Caribe (océano Atlántico)."
+        },
+        {
+          "enunciado": "¿Cuál es la moneda oficial de Costa Rica?",
+          "respuestas": [
+            { "texto": "Real" },
+            { "texto": "Colón costarricense" },
+            { "texto": "Dólar" },
+            { "texto": "Peso" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "El colón costarricense (CRC, símbolo ₡) es la moneda oficial desde 1896."
+        },
+        {
+          "enunciado": "¿Cuál es el plato típico más asociado a los desayunos ticos?",
+          "respuestas": [
+            { "texto": "Chifrijo" },
+            { "texto": "Casado" },
+            { "texto": "Gallo pinto" },
+            { "texto": "Olla de carne" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "El gallo pinto mezcla arroz y frijoles con culantro y salsa; es un ícono del desayuno tico."
+        },
+        {
+          "enunciado": "¿Qué expresión popular identifica a Costa Rica internacionalmente?",
+          "respuestas": [
+            { "texto": "¡Pilas!" },
+            { "texto": "Póngale sabor" },
+            { "texto": "Viva la patria" },
+            { "texto": "Pura vida" }
+          ],
+          "respuestaCorrecta": 3,
+          "informacionComplementaria": "“Pura vida” resume amabilidad, bienestar y actitud positiva en la cultura costarricense."
+        }
+      ]
+    },
+    {
+      "nombreDificultad": "fácil",
+      "preguntas": [
+        {
+          "enunciado": "¿Cuándo se celebra la independencia de Costa Rica?",
+          "respuestas": [
+            { "texto": "1 de enero de 1823" },
+            { "texto": "15 de septiembre de 1821" },
+            { "texto": "12 de octubre de 1492" },
+            { "texto": "28 de julio de 1821" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "La independencia centroamericana se declaró el 15 de septiembre de 1821 en Guatemala."
+        },
+        {
+          "enunciado": "¿Cuál es el ave nacional de Costa Rica?",
+          "respuestas": [
+            { "texto": "Colibrí" },
+            { "texto": "Yigüirro" },
+            { "texto": "Lapa roja" },
+            { "texto": "Quetzal" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "El yigüirro (Turdus grayi) fue declarado ave nacional en 1977."
+        },
+        {
+          "enunciado": "¿Cuál es la flor nacional de Costa Rica?",
+          "respuestas": [
+            { "texto": "Rosa" },
+            { "texto": "Guaria morada" },
+            { "texto": "Flor de itabo" },
+            { "texto": "Flor de mayo" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "La guaria morada (Guarianthe skinneri) es una orquídea emblemática del país."
+        },
+        {
+          "enunciado": "¿Cuántas provincias tiene Costa Rica?",
+          "respuestas": [
+            { "texto": "Seis" },
+            { "texto": "Ocho" },
+            { "texto": "Cinco" },
+            { "texto": "Siete" }
+          ],
+          "respuestaCorrecta": 3,
+          "informacionComplementaria": "Las siete provincias son: San José, Alajuela, Cartago, Heredia, Guanacaste, Puntarenas y Limón."
+        },
+        {
+          "enunciado": "¿Qué volcán es conocido por su laguna ácida en el cráter?",
+          "respuestas": [
+            { "texto": "Turrialba" },
+            { "texto": "Poás" },
+            { "texto": "Arenal" },
+            { "texto": "Rincón de la Vieja" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "El volcán Poás posee la Laguna Caliente, una de las más ácidas del planeta."
+        }
+      ]
+    },
+    {
+      "nombreDificultad": "normal",
+      "preguntas": [
+        {
+          "enunciado": "¿Cuál es el punto más alto de Costa Rica?",
+          "respuestas": [
+            { "texto": "Cerro de la Muerte" },
+            { "texto": "Cerro Kamuk" },
+            { "texto": "Cerro Chirripó" },
+            { "texto": "Volcán Irazú" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "El Chirripó alcanza aproximadamente 3.820 m s. n. m., en la Cordillera de Talamanca."
+        },
+        {
+          "enunciado": "¿Cuál es el árbol nacional de Costa Rica?",
+          "respuestas": [
+            { "texto": "Cenízaro" },
+            { "texto": "Corteza amarilla" },
+            { "texto": "Guanacaste" },
+            { "texto": "Cedro amargo" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "El guanacaste (Enterolobium cyclocarpum) simboliza la unión y hospitalidad."
+        },
+        {
+          "enunciado": "¿Qué parque nacional está en la Península de Osa y es famoso por su biodiversidad?",
+          "respuestas": [
+            { "texto": "Santa Rosa" },
+            { "texto": "Corcovado" },
+            { "texto": "Tortuguero" },
+            { "texto": "Manuel Antonio" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "Corcovado protege bosques húmedos tropicales con altísimos niveles de biodiversidad."
+        },
+        {
+          "enunciado": "¿En qué año se abolió el ejército en Costa Rica?",
+          "respuestas": [
+            { "texto": "1821" },
+            { "texto": "1955" },
+            { "texto": "1939" },
+            { "texto": "1948" }
+          ],
+          "respuestaCorrecta": 3,
+          "informacionComplementaria": "La abolición del ejército se proclamó en 1948 bajo la Junta Fundadora de la Segunda República."
+        },
+        {
+          "enunciado": "¿Cuál es el lago más grande de Costa Rica?",
+          "respuestas": [
+            { "texto": "Laguna de Poás" },
+            { "texto": "Laguna de Hule" },
+            { "texto": "Laguna de Arenal" },
+            { "texto": "Lago Arenal" }
+          ],
+          "respuestaCorrecta": 3,
+          "informacionComplementaria": "El Lago Arenal es un embalse artificial y el más grande del país."
+        }
+      ]
+    },
+    {
+      "nombreDificultad": "difícil",
+      "preguntas": [
+        {
+          "enunciado": "¿Cuál es el volcán más alto de Costa Rica?",
+          "respuestas": [
+            { "texto": "Arenal" },
+            { "texto": "Irazú" },
+            { "texto": "Tenorio" },
+            { "texto": "Poás" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "El volcán Irazú alcanza cerca de 3.432 m s. n. m."
+        },
+        {
+          "enunciado": "¿Qué sitio costarricense es Patrimonio Mundial por sus esferas de piedra precolombinas?",
+          "respuestas": [
+            { "texto": "Guayabo" },
+            { "texto": "Isla San Lucas" },
+            { "texto": "Sitios Cacicales con Esferas de Piedra del Diquís" },
+            { "texto": "Ruinas de Ujarrás" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "Las esferas del Diquís en el sur de Costa Rica son únicas por su manufactura y contexto arqueológico."
+        },
+        {
+          "enunciado": "¿Cuál es el río con la cuenca más extensa de Costa Rica?",
+          "respuestas": [
+            { "texto": "Río Sarapiquí" },
+            { "texto": "Río Reventazón" },
+            { "texto": "Río Tempisque" },
+            { "texto": "Río Grande de Térraba" }
+          ],
+          "respuestaCorrecta": 3,
+          "informacionComplementaria": "La cuenca del Térraba-Sierpe es la más grande del país."
+        },
+        {
+          "enunciado": "¿Cuál es el himno nacional de Costa Rica?",
+          "respuestas": [
+            { "texto": "Noble patria, tu hermosa bandera" },
+            { "texto": "Hermosa tierra" },
+            { "texto": "Marcha de la Libertad" },
+            { "texto": "Salve oh patria" }
+          ],
+          "respuestaCorrecta": 0,
+          "informacionComplementaria": "Música de Manuel María Gutiérrez (1852) y letra de José María Zeledón (1903)."
+        },
+        {
+          "enunciado": "¿Qué provincia alberga el Parque Nacional Rincón de la Vieja?",
+          "respuestas": [
+            { "texto": "Puntarenas" },
+            { "texto": "Guanacaste" },
+            { "texto": "Limón" },
+            { "texto": "Alajuela" }
+          ],
+          "respuestaCorrecta": 1,
+          "informacionComplementaria": "Rincón de la Vieja está en la Cordillera de Guanacaste, al noroeste del país."
+        }
+      ]
+    },
+    {
+      "nombreDificultad": "muy difícil",
+      "preguntas": [
+        {
+          "enunciado": "¿Cuál fue el primer estadio nacional de Costa Rica y en qué zona de San José se ubicó?",
+          "respuestas": [
+            { "texto": "El Morera Soto, en Alajuela" },
+            { "texto": "El Coyella Fonseca, en Guadalupe" },
+            { "texto": "El de La Sabana, en Mata Redonda" },
+            { "texto": "El Saprissa, en Tibás" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "El primer Estadio Nacional se construyó en el Parque Metropolitano La Sabana, distrito Mata Redonda."
+        },
+        {
+          "enunciado": "¿En qué Mundial debutó la Selección Mayor masculina de Costa Rica?",
+          "respuestas": [
+            { "texto": "Alemania 2006" },
+            { "texto": "España 1982" },
+            { "texto": "Italia 1990" },
+            { "texto": "Estados Unidos 1994" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "Costa Rica avanzó a octavos de final en su debut mundialista en 1990."
+        },
+        {
+          "enunciado": "¿Qué isla oceánica costarricense es Patrimonio Mundial por su biodiversidad marina?",
+          "respuestas": [
+            { "texto": "Isla Chira" },
+            { "texto": "Isla Tortuga" },
+            { "texto": "Isla del Coco" },
+            { "texto": "Isla Uvita" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "La Isla del Coco está a unos 500 km al suroeste del continente, en el Pacífico."
+        },
+        {
+          "enunciado": "Aproximadamente, ¿qué porcentaje del territorio costarricense está bajo alguna figura de protección?",
+          "respuestas": [
+            { "texto": "≈26%" },
+            { "texto": "≈5%" },
+            { "texto": "≈50%" },
+            { "texto": "≈70%" }
+          ],
+          "respuestaCorrecta": 0,
+          "informacionComplementaria": "Costa Rica protege alrededor de una cuarta parte de su territorio mediante parques y reservas."
+        },
+        {
+          "enunciado": "¿Cuál de estos parques nacionales es reconocido por el desove de tortugas marinas en el Caribe?",
+          "respuestas": [
+            { "texto": "Chirripó" },
+            { "texto": "Los Quetzales" },
+            { "texto": "Tortuguero" },
+            { "texto": "Tapantí" }
+          ],
+          "respuestaCorrecta": 2,
+          "informacionComplementaria": "En Tortuguero desovan especies como la tortuga verde y la baula."
+        }
+      ]
+    }
+  ]
+}

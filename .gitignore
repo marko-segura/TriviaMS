@@ -1,0 +1,35 @@
+# Unity (proyecto dentro de la subcarpeta TriviaMS/)
+TriviaMS/[Ll]ibrary/
+TriviaMS/[Tt]emp/
+TriviaMS/[Oo]bj/
+TriviaMS/[Bb]uild/
+TriviaMS/[Bb]uilds/
+TriviaMS/[Ll]ogs/
+TriviaMS/[Uu]ser[Ss]ettings/
+TriviaMS/[Mm]emoryCaptures/
+TriviaMS/[Rr]ecordings/
+
+# IDE / caches
+TriviaMS/.vs/
+TriviaMS/.gradle/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.suo
+*.tmp
+*.svd
+*.booproj
+
+# Addressables / Visual Scripting
+TriviaMS/Assets/Addressables_Temp*
+TriviaMS/Assets/AddressableAssetsData/*/*.bin*
+TriviaMS/Assets/Unity.VisualScripting.Generated/
+
+# SO
+.DS_Store
